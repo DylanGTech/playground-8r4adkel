@@ -12,5 +12,7 @@ What does all that mean?
 
 Here is the smallest C# program possible. We shall be expanding this ever-so-slowly over time. Before long, you can create the next big thing on your own! (Legal note: The next big thing is in limited supply, and cannot be guarenteed to every customer)
 ```C# runnable
-static void Main() {}
+class Program {
+    static void Main() {}
+}
 ```
